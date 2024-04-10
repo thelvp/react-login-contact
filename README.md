@@ -1,3 +1,12 @@
+# This app
+
+A simple app where you can login and find hidden contact details.
+
+Still to do:
+- [X] Styling
+- [ ] Add a revolving sun around the circle
+- [ ] Add stars as background to honor the space theme
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
